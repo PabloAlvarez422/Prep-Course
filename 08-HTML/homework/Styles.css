@@ -1,0 +1,12 @@
+#divClass>h1 {color: rgb(255, 145, 0);}
+#thirdDiv>ul>li>img {width: 400px;} 
+#thirdDiv
+    {height: 600px;
+    width: 500px;
+    background-color: rgba(142, 142, 197, 0.884);
+    padding: 50px;
+    border-color: black;
+    border-width: 6px;}
+#spainId>
+    {font-size: 18px;
+    margin: 50px;}
