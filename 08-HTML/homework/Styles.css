@@ -1,15 +1,14 @@
-h1 {color: rgb(144, 114, 172);
+.divClass > h1 {color: rgb(172, 159, 114);
 }
 #thirdDiv > ul > li > img {
-    width: 400px;
+    width:400px;
 } 
 #thirdDiv {
     height: 600px;
     width: 500px;
     background-color: rgba(235, 220, 137, 0.884);
     padding: 100px;
-    border-color: rgb(0, 0, 0);
-    border-width: 6px;
+    border: solid 6px black;
 }
 #spainId > {
     font-size: 18px;
